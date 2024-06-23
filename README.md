@@ -26,10 +26,6 @@ This repository is a collection of various Python scripts for different purposes
     pip install -r requirements.txt
     ```
 
-## Usage
-
-Each script in the repository is self-contained and can be run independently. Navigate to the script's directory and run it using Python. For example:
-```sh
 
 ## Scripts
 
