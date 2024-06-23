@@ -9,6 +9,9 @@ This repository is a collection of various Python scripts for different purposes
 - [Scripts](#scripts)
 - [Contribution](#contribution)
 - [License](#license)
+  - [Scripts](#scripts)
+  - [exchange_rate_fetcher.py](#exchange_rate_fetcherpy)
+
 
 ## Installation
 
@@ -28,3 +31,12 @@ This repository is a collection of various Python scripts for different purposes
 Each script in the repository is self-contained and can be run independently. Navigate to the script's directory and run it using Python. For example:
 ```sh
 python script_name.py
+
+## Scripts
+
+### exchange_rate_fetcher.py
+
+This script provides two functions: get_historical_exchange_rate to fetch the historical exchange rate for a given date from USD to GBP using web scraping, and get_latest_exchange_rate to fetch the latest exchange rate using an external API.
+To use the latest exchange rate functionality, you need to obtain a free API key from ExchangeRate-API, which offers a free plan with 1,500 API requests per month and updates once per day.
+Replace the placeholder in the script with your API key. This tool allows users to easily retrieve both historical and latest exchange rates for their currency conversion needs.
+
