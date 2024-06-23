@@ -9,7 +9,7 @@ This repository is a collection of various Python scripts for different purposes
 - [Scripts](#scripts)
 - [Contribution](#contribution)
 - [License](#license)
-  - [Scripts](#scripts)
+- [Scripts](#scripts)
   - [exchange_rate_fetcher.py](#exchange_rate_fetcherpy)
 
 
